@@ -4,7 +4,7 @@ Página de ventas de alta conversión para la colección **Bordado Perfecto** (+
 
 ## 🚀 Características
 - **Diseño Moderno & Responsivo**: Optimizado para móviles y computadoras con paleta marfil, rosa seco y acentos dorados.
-- **Copywriting Persuasivo en Español**: Adaptado al mercado hispanohablante con oferta en dólares ($24.90 USD).
+- **Copywriting Persuasivo en Español**: Adaptado al mercado hispanohablante con oferta en dólares ($14.90 USD).
 - **Verificador Interactivo de Máquinas**: Compatibilidad instantánea con Brother (.PES), Janome (.JEF), Singer (.XXX), Bernina (.EXP) e Industriales (.DST).
 - **Vitrinas Animadas de Diseños**: Carros continuos con más de 30 muestras en alta resolución.
 - **Prueba Social Verificada**: Conversaciones reales de WhatsApp de clientas satisfechas.
